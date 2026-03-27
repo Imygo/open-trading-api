@@ -176,3 +176,13 @@ backtester/examples/output/*.py
 settings.local.json
 
 .serena/
+
+
+# ===== 개인용 =======
+
+first_try.yaml
+
+KIS*/
+
+Data/
+*.csv
